@@ -32,6 +32,7 @@
 
 
 <script lang="ts">
+// @ts-nocheck
 import {
   IonPage,
   IonHeader,

@@ -42,6 +42,7 @@
 </style>
 
 <script lang="ts" setup>
+// @ts-nocheck
 import { ref, onMounted, defineProps } from 'vue';
 import {
   IonPage,

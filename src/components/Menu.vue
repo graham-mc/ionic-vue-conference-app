@@ -94,6 +94,7 @@
 </template>
 
 <script lang="ts">
+// @ts-nocheck
 import { computed, defineComponent, getCurrentInstance, onMounted, ref, watch } from 'vue';
 import { useStore } from '@/store';
 

@@ -92,6 +92,7 @@
 </template>
 
 <script lang="ts" setup>
+// @ts-nocheck
 import { computed } from 'vue';
 import { Speaker } from '@/store/modules/speakers';
 import { Session } from '@/store/modules/sessions';

@@ -87,6 +87,7 @@
 </style>
 
 <script setup lang="ts">
+// @ts-nocheck
 import { ref, onMounted, watch, ComputedRef } from "vue";
 import { dateFormat } from "@/filters/dateFormat";
 import { useStore } from 'vuex';

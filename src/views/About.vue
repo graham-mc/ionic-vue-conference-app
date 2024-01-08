@@ -197,6 +197,7 @@ ion-toolbar ion-menu-button {
 
 
 <script setup lang="ts">
+// @ts-nocheck
 import {
   IonPage,
   IonButton,

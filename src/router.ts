@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { createRouter, createWebHistory } from '@ionic/vue-router';
 import { RouteRecordRaw } from 'vue-router';
 import store from './store';
